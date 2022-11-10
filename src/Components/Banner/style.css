@@ -1,0 +1,39 @@
+.banner-section{
+    background: #000cfe;
+    height: 700px;
+}
+.banner-text h1{
+    color: white;
+    background-color: #000cfe;
+    font-size: 60px;
+    padding-top: -16px;
+    margin-left: 60px;
+
+}
+.banner-text p{
+    color: #ffffff;
+    font-size: 22px;
+    margin-left: 60px;
+
+}
+.banner-text{
+    max-width: 541px;
+}
+.banner-form input{
+    background-color: #61dafb;
+    height:35px;
+    width: 350px;
+    border-radius: 10px;
+    float: right;
+    padding: 16px 8px;
+    margin: 16px 216px;
+    display: inline-block;
+    border: 1px solid #ccc;
+}
+
+.banner-form p{
+    padding: 16px 8px;
+    margin: 8px 65px;
+    color: white;
+    float: right;
+}

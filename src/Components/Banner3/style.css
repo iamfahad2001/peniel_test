@@ -1,0 +1,36 @@
+.banner3-section {
+    background: #f5e6d9;
+    height: 1050px;
+}
+
+.p-head {
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+    font-size: large;
+}
+
+.banner3-text h1 {
+    color: white;
+    text-align: center;
+}
+
+.banner3-text p {
+    color: #ffffff;
+    text-align: center;
+
+}
+
+.banner3-img1 {
+    height: 480px;
+    width: 585px;
+    float: left;
+    /*position: absolute;*/
+}
+.banner3-img2 {
+    height: 498px;
+    width: 280px;
+    float: right;
+    /*position: absolute;*/
+    margin-left: 335px;
+}
