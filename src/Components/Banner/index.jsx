@@ -11,8 +11,8 @@ const Banner = () => {
                     <div className="row align-items-lg-center">
                         <div className="col-md-6">
                             <div className="banner-text">
-                                <h1>SUPERFAST WORK.</h1>
-                                <h1>SUPERFAST GROWTH.</h1>
+                                <h1>SUPER-FAST WORK.</h1>
+                                <h1>SUPER-FAST GROWTH.</h1>
                                 <p>Bring the very best out of your customer-facing teams with robust automation,
                                     comprehensive analytics, personalized solutions, and more.
                                     Sign up and get started in no time—the fastest implementation in the enterprise CRM market.</p>

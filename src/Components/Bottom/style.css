@@ -1,0 +1,21 @@
+.bottom-section{
+    background-color: #ffffff;
+    height: 600px;
+}
+.header{
+    padding-top: 80px;
+}
+.head {
+     text-align: center;
+    font-weight: bold;
+}
+.buttons{
+    padding-top: 250px;
+    margin-left: 450px;
+}
+.b1{
+    color: #000cfe;
+    border: 1px solid #000cfe;
+    font-weight: bold;
+    margin-left: 10px;
+}
