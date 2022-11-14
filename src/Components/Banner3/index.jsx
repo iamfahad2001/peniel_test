@@ -14,7 +14,7 @@ const Banner3 = () => {
                         <h1>Maximum productivity with</h1>
                         <h1>minimum use</h1>
                         <p>Let's break the myth that CRMs are all about data entry. Zoho CRM is built to be used less. Automate </p>
-                        <p>workflows, processes, campaigns, customer journeys, and more so that you can focus less on software and more on relationships.</p>
+                        <p >workflows, processes, campaigns, customer journeys, and more so that you can focus less on software and more on relationships.</p>
                     </div>
                     <div style={{display: "flex", position: "absolute", paddingTop:"220px"}}>
 
