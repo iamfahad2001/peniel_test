@@ -1,0 +1,23 @@
+.banner6-section{
+    background-color: #cfe2ff;
+    height: 700px;
+}
+
+.box{
+    margin-top: 90px;
+    height: 457px;
+    width: 400px;
+    background-color: #0a53be;
+    border-radius: 80px;
+}
+
+.box h1{
+    color: white;
+    padding: 100px 50px;
+}
+
+.bn6-text p {
+    margin-top: 35px;
+    font-size: xx-large;
+    font-weight: bold;
+}

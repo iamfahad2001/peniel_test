@@ -146,7 +146,8 @@ function Footer() {
           {/* eslint-disable-next-line jsx-a11y/anchor-has-content */}
             <a className="btn btn-outline-light btn-floating m-1 fa fa-facebook" href="#!" role="button"><FacebookIcon/></a>
             {/* Twitter */}
-            <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"><InstagramIcon/></a>
+            <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"><TwitterIcon/></a>
+
             {/* Google */}
             <a className="btn btn-outline-light btn-floating m-1" href="#!" role="button"><GoogleIcon/></a>
             {/* Instagram */}
@@ -185,7 +186,8 @@ function Footer() {
         {/* Copyright */}
         <div className="text-center p-3" style={{backgroundColor: 'rgba(0, 0, 0, 0.2)'}}>
           © 2020 Copyright:
-          <a className="text-white" href="https://mdbootstrap.com/">MDBootstrap.com</a>
+          {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
+          <a className="text-white" href="#">Zoho.com/crm</a>
         </div>
         {/* Copyright */}
       </footer>

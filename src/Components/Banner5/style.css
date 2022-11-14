@@ -1,6 +1,6 @@
 .banner5-section{
     background-color: #cfe2ff;
-    height: 700px;
+    height: 500px;
 }
 .head1 h1{
     font-weight: bold;
@@ -14,7 +14,11 @@
     font-size: 60px;
     margin-left: 60px;
 }
+.list1{
+    padding-top: 50px;
+}
+
 .list1 p {
-padding-top: 50px;
+padding-top: 30px;
     float: right;
 }

@@ -8,6 +8,7 @@ import Banner4 from "./Components/Banner4";
 import Footer from "./Components/Footer";
 import Bottom from "./Components/Bottom";
 import Banner5 from "./Components/Banner5";
+import Banner6 from "./Components/Banner6";
 
 function App() {
   return (
@@ -18,7 +19,7 @@ function App() {
         <Banner3/>
         <Banner4/>
         <Banner5/>
-        {/*<Banner6/>*/}
+        <Banner6/>
         <Bottom/>
         <Footer/>
 

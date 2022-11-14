@@ -8,10 +8,19 @@
     padding-top: 100px;
 }
 .button{
+    margin-left: 230px;
    padding-left: 200px;
 }
 .btn1{
-    justify-content: space-between;
+    font-weight: bold;
+    background-color: #fd7e14;
+    width: 200px;
+    color: white;
+    border: 1px solid;
+}
+.btn2{
+    font-weight: bold;
+    margin-left: 10px;
     width: 200px;
     color: white;
     border: 1px solid;
